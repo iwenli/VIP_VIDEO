@@ -1,0 +1,12 @@
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\bin\Debug\Iwenli.VIPVideo.exe.config
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\bin\Debug\Iwenli.VIPVideo.exe
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\bin\Debug\Iwenli.VIPVideo.pdb
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.Form1.resources
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.Properties.Resources.resources
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.csproj.GenerateResource.Cache
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.exe
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.pdb
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.csprojResolveAssemblyReference.cache
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.Form2.resources
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.Form3.resources
+E:\1开发\编码\doNet\0.myself\VIPVideo\Iwenli.VIPVideo\Iwenli.VIPVideo\obj\Debug\Iwenli.VIPVideo.FrmProcessing.resources
