@@ -79,7 +79,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "Form3";
-            this.Text = "Form3";
+            this.Text = "发送数据";
             this.ResumeLayout(false);
             this.PerformLayout();
 
