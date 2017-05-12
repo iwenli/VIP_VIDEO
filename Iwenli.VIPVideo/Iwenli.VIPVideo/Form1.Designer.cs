@@ -100,7 +100,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "视频破解专业户 Power By CC";
+            
             this.ResumeLayout(false);
             this.PerformLayout();
 

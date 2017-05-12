@@ -186,7 +186,7 @@ namespace Iwenli.VIPVideo.Utility
         /// <param name="filePath">文件路径(相对路径)</param>
         /// <param name="formData">表单键值对</param>
         /// <returns></returns>
-        public static string UploadFile(string strURL, string filePath, NameValueCollection formData)
+        public string UploadFile(string strURL, string filePath, NameValueCollection formData)
         {
             using (Stream stream = new FileStream(filePath, FileMode.Open, FileAccess.Read))
             {
@@ -207,7 +207,7 @@ namespace Iwenli.VIPVideo.Utility
         /// <param name="formData">表单键值对</param>
         /// <param name="timeOut">超时时间</param>
         /// <returns></returns>
-        public static string UploadFile(string strURL, string fileName, byte[] fileBytes, NameValueCollection formData, int timeOut = 36000)
+        public string UploadFile(string strURL, string fileName, byte[] fileBytes, NameValueCollection formData, int timeOut = 36000)
         {
             string responseContent;
             var memStream = new MemoryStream();

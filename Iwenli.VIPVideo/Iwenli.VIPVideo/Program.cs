@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Iwenli.VIPVideo.Utility;
+using System;
 using System.Windows.Forms;
 
 namespace Iwenli.VIPVideo
@@ -14,6 +15,7 @@ namespace Iwenli.VIPVideo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             //www.iwenli.org/api/log.axd?file_directory=vip_video&content=hello
+
             Application.Run(new Form1());
         }
     }
